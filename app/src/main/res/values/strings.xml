@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Profile_sport</string>
+    <string name="Name">Team Name</string>
+    <string name="GoogleMaps">OnOpenInGoogleMaps</string>
+    <string name="OnOpenInGoogleMaps">OPEN IN GOOGLE MAPS</string>
+    <string name="Title_teamname">TEAM NAME</string>
+    <string name="Name_" />
+    <string name="ZIP_code" />
+    <string name="Adress_title">Team Adress</string>
+    <string name="Adress" />
+    <string name="Logo" />
+    <string name="Bouton_Confirmation">Confirmer le logo</string>
+    <string name="Bouton_Load">LOAD FROM PHONE</string>
+    <string name="Text_Select">Select a new avatar</string>
+    <string name="ic_logo_00">logo_user</string>
+</resources>
